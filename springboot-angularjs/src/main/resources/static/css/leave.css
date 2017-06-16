@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 17, 2017, 2:28:37 PM
+    Author     : prasanthi.p
+*/
+
+#msg{
+    text-align: center;
+    color:#F44336;
+    font-size:13px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#leave_heading
+{
+    text-align: center;
+    color:#F44336;
+    font-size:26px;
+    font-weight: bold;
+    font-family:Arial;
+}
+
+.td
+{
+    padding:12px;
+    font-size:13px;
+    font-family:arial;
+    font-weight:bold;
+}
+
+
+.callender
+{
+    padding:10px;
+    font-size:12px;
+}
+
+#note{
+    color:#F44336;
+    font-size:10px;
+    font-family:arial;
+    font-weight:bold;
+}
+.cc_field{
+    width:25px;
+}
+
+@media screen max-width(360px)
+{
+    .callender{
+        text-align:center;
+    }
+}
